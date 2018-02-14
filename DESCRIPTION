@@ -8,3 +8,5 @@ Description: Simulate dice rolls for role playing games (RPGs) such as Dungeons 
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/ajkeegan/polydice
+BugReports: https://github.com/ajkeegan/polydice/issues

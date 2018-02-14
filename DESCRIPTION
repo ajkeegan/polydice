@@ -1,0 +1,10 @@
+Package: polydice
+Type: Package
+Title: Simulate dice rolling in role playing games (RPGs)
+Version: 0.3.0
+Author: Alan Keegan
+Maintainer: Alan Keegan <alan@thekeegan.com>
+Description: Simulate dice rolls for role playing games (RPGs) such as Dungeons and Dragons (DnD). This package provides functions for the seven dice set - 4, 8, 10, 12, 20 sided dice and percentile rolls. They are wrapper functions for sample().
+License: GPL-3
+Encoding: UTF-8
+LazyData: true

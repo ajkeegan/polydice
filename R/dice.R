@@ -1,17 +1,9 @@
-# Hello, world!
-#
-# This is an example function named 'hello'
-# which prints 'Hello, world!'.
-#
-# You can learn more about package authoring with RStudio at:
-#
-#   http://r-pkgs.had.co.nz/
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Build and Reload Package:  'Ctrl + Shift + B'
-#   Check Package:             'Ctrl + Shift + E'
-#   Test Package:              'Ctrl + Shift + T'
+# These functions simulate dice rolls for RPGs
+# I created this as an exercise for learning how to use github in RStudio
+
+# The dice function is a generic wrapper for sample()
+
+# d4(), d6(), etc are wrappers for dice() for dice with a specific number of sides
 
 dice <- function(number, side, func = identity) {
   # function that rolls number d side dice

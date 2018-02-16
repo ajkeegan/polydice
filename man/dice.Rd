@@ -23,3 +23,6 @@ dice(8, 6) # Rolls 8 six-sided dice (8d6)
 dice(8, 6, sum) # Rolls 8 six-sided dice (8d6), and adds them up.
 dice(2, 20, max) # Rolls d20 with advantage
 }
+\details{
+  Wrapper function for \code{sample()}.
+}

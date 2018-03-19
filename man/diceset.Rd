@@ -33,7 +33,7 @@
 \examples{
   d20() # Rolls a d20
   d20(2, max) # Rolls d20 with advantage
-  d8(6, sum) # For a fireball, rolls 8 six-sided dice (8d6), and adds them up.
+  d6(8, sum) # For a fireball, rolls 8 six-sided dice (8d6), and adds them up.
 }
 \details{
   Wrapper function for \code{dice()}.
